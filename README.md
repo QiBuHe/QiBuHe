@@ -10,6 +10,7 @@
         box-shadow: 0 1px 4px rgba(0,0,0,0.05);
       ">
         <div align="center">
+          <!-- 头像 -->
           <img src="assets/images/14.png" width="140" style="border-radius: 50%; display: block;" alt="avatar" />
           <h2 style="margin: 16px 0 2px 0; font-size: 24px; font-weight: 700; color: #24292f;">
             Hi, I'm QiBuHe
@@ -45,6 +46,7 @@
           🛠️ Tech Stack
         </h3>
         <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 22px;">
+          <!-- 徽章全部使用标准链接 -->
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
