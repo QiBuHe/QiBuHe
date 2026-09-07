@@ -1,11 +1,30 @@
-<div align="center" style="max-width: 520px; margin: 0 auto;">
-<div style="border: 1px solid #d0d7de; border-radius: 12px; padding:28px 32px; background: #f6f8fa; text-align: left; overflow:hidden;">
+<div style="border:1px solid #d0d7de;border-radius:12px;padding:24px;background:#f6f8fa;">
 
-## 关于我
+<table width="100%" height="250">
 
+<tr>
+<td valign="top">
+
+<h2>关于我</h2>
+
+<p>
 你好，我是 QiBuHe。正在学习中。
+</p>
 
-<img src="assets/images/14.png" width="120" style="float:right; margin:-20px -10px -25px 12px; opacity:0.95;" alt="character">
+</td>
+</tr>
 
-</div>
+
+<tr>
+<td align="right" valign="bottom">
+
+<img src="assets/images/14.png"
+     width="110"
+     alt="character">
+
+</td>
+</tr>
+
+</table>
+
 </div>
