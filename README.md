@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/images/14.png" width="140" alt="avatar" />
 </div>
 
 # QiBuHe
